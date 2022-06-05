@@ -1,0 +1,9 @@
+.show-modal1 {
+    visibility: visible;
+    opacity: 1;
+}
+
+.modal {
+    z-index: 99999;
+}
+

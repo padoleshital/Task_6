@@ -1,0 +1,93 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "product_name": "Lightweight Jacket",
+      "price": 58.79
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 1,
+      "id": 2
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 1,
+      "id": 3
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 1,
+      "id": 4
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 0,
+      "id": 5
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 0,
+      "id": 6
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 0,
+      "id": 7
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 0,
+      "id": 8
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 0,
+      "id": 9
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 0,
+      "id": 10
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 4,
+      "id": 11
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 4,
+      "id": 12
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 1,
+      "id": 13
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 1,
+      "id": 14
+    },
+    {
+      "category": "Lightweight Jacket",
+      "price": "58.79",
+      "item": 1,
+      "id": 15
+    }
+  ]
+}
